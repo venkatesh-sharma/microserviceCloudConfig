@@ -2,7 +2,7 @@ build:
   version: "4.0"
 
 accounts:
-  message: "Accounts Service in prod mode"
+  message: "Accounts Service in production mode"
   contactDetails:
     name: "Reine Doe"
     email: "Reine@eazybank.com"
