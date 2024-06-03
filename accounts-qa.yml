@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Accounts Service in qa mode"
+  contactDetails:
+    name: "Smitha Doe"
+    email: "Smitha@eazybank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 555-5678

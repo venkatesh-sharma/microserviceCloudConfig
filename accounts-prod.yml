@@ -1,0 +1,11 @@
+build:
+  version: "4.0"
+
+accounts:
+  message: "Accounts Service in prod mode"
+  contactDetails:
+    name: "Reine Doe"
+    email: "Reine@eazybank.com"
+  onCallSupport:
+    - (777) 555-1234
+    - (777) 555-5678
